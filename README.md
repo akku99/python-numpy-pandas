@@ -90,7 +90,7 @@ See `requirements.txt`. Core: `numpy`, `pandas`. A few later days optionally
 use `matplotlib` (Day 44) and `pyarrow` (Day 24, Parquet) — both are in
 `requirements.txt` and each script degrades gracefully if a package is missing.
 
-## Structure
+## 🛠️ Structure
 ```
 numpy-pandas-50day-challenge/
 ├── README.md                 <- you are here (full roadmap)
