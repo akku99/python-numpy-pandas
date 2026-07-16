@@ -1,4 +1,4 @@
-# 50-Day NumPy & Pandas Practice Challenge
+# 🚀 50-Day NumPy & Pandas Practice Challenge
 
 A structured, day-by-day practice series for **intermediate-to-expert** Python
 data users, covering NumPy and Pandas in depth - from array internals and
